@@ -9,7 +9,7 @@ Before running the code, make sure you have the required Python packages install
 ```bash
 pip install yfinance scikit-learn pandas
 
-**Usage**
+## Usage
 
     1.Import historical data from Yahoo Finance using yfinance.
     2.Preprocess the data, including removing unnecessary columns and creating a target variable.
