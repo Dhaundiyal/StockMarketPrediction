@@ -6,7 +6,7 @@ This project demonstrates Stock Market prediction using the Random Forest algori
 
 Before running the code, make sure you have the required Python packages installed. You can install them using pip:
 
-```bash
+
 pip install yfinance scikit-learn pandas
 
 ## Usage
@@ -17,13 +17,12 @@ pip install yfinance scikit-learn pandas
     4.Evaluate the model's performance using precision score.
     5.Perform backtesting to assess the model's performance over time.
     6.Explore different horizons and additional features to improve predictions.
-
-**Code Structure**
+## Code Structure
 
     .stock_market_prediction.py: File containing the main code for the project.
     .README.md: This documentation file.
 
-**Getting Started**
+## Getting Started
 
 You can get started with this project by following these steps:
 
@@ -33,7 +32,7 @@ You can get started with this project by following these steps:
     .Open the stock_market_prediction.ipynb notebook in Jupyter Notebook or your preferred Python environment.
     .Run the code cells to execute the Stock Market Prediction Project.
 
-**Results**
+## Results
 
 The project provides insights into stock market prediction based on the Random Forest algorithm. You can expect to see precision scores and visualizations of the model's performance over time.
 
